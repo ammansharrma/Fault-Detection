@@ -10,10 +10,14 @@ Dataset Link : https://drive.google.com/file/d/1CcQ6K0lwfG72h2miyUD4KtLmelKzUuw5
 
 **Outputs :
 
-Epochs vs Accuracy Graph
+Epochs vs Accuracy Graph :
+
+
 ![Epochs vs accuracy graph](https://github.com/Aamaan65/Fault-Detection/assets/102300268/ef4c1c73-f903-4c95-bf5f-ef3e75dcb817)
 
 
 
 Top 3 Faults Detected from the dataset :
+
+
 ![Final model output for top 3 features](https://github.com/Aamaan65/Fault-Detection/assets/102300268/06cdafeb-9a98-4fe1-a251-68f7849c096b)
